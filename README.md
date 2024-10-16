@@ -1,6 +1,6 @@
 # :earth_americas: GEO 441B/541B Geographic Information Systems :earth_americas:
 
-Shenyue Jia
+Layne Miller
 
 ## Overview
 - This repository contains Google Colab Notebooks prepared for GEO 441/541 @Miami University
