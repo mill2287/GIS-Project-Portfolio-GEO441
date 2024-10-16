@@ -12,4 +12,4 @@ Shenyue Jia
 
 ## Map Coordinate Basics
 
-- [Understanding map coordinates](https://github.com/jiashenyue/geo441-541/blob/main/map-coordinates-basics/understanding-coordinates.ipynb)
+- [Understanding map coordinates](Week_3_Assignment_Layne_Miller.ipynb)
