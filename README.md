@@ -9,7 +9,7 @@ Shenyue Jia
 ## Basic Mapping
 
 - [First map in ArcGIS Pro](https://github.com/jiashenyue/geo441-541/blob/main/basic-mapping/first-arcgis-mapping.ipynb)
-- [Map the age index based on 2000 census data](https://github.com/jiashenyue/geo441-541/blob/main/basic-mapping/age-index-mapping.ipynb)
+- [Map the age index based on 2000 census data](Week_5_Assignment_Layne_Miller.ipynb)
 
 ## Map Coordinate Basics
 
