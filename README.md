@@ -16,4 +16,4 @@ Layne Miller
 
 ## Spatial Analysis
 
-- [Week 10 Assignment] (Week_10_Assignment_Layne_Miller.ipynb) 
+- [Week 10 Assignment] (https://github.com/mill2287/GIS-Project-Portfolio-GEO441/blob/main/Week_10_Assignment_Layne_Miller.ipynb)
