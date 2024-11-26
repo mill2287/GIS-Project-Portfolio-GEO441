@@ -9,7 +9,7 @@ Layne Miller
 
 - [First map in ArcGIS Pro](Week_2_Assignment_Layne_Miller.ipynb)
 - [Map the age index based on 2000 census data](Week_5_Assignment_Layne_Miller.ipynb)
-
+- [Week 12 Assignment based on US Census Data]
 ## Map Coordinate Basics
 
 - [Understanding map coordinates](Week_3_Assignment_Layne_Miller.ipynb)
