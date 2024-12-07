@@ -1,6 +1,6 @@
 # :earth_americas: GEO 441B/541B Geographic Information Systems :earth_americas:
 
-Layne Miller
+Created by Layne Miller
 
 ## Overview
 - This repository contains Google Colab Notebooks prepared for GEO 441/541 @Miami University
@@ -10,9 +10,9 @@ Layne Miller
 - [First map in ArcGIS Pro](Week_2_Assignment_Layne_Miller.ipynb)
 
 -  [Map the age index based on 2000 census data](Week_5_Assignment_Layne_Miller.ipynb)
-## Map Coordinate Basics
+## Map Coordination
 
-- [Understanding map coordinates](Week_3_Assignment_Layne_Miller.ipynb)
+- [Projecting Geographic Data in Minnesota](Week_3_Projecting_Geographic_Data_in_Minnesota.ipynb)
 
 ## Spatial Analysis
 
@@ -23,7 +23,5 @@ Layne Miller
 - [Spatial Analysis based on US Census Data](https://github.com/mill2287/GIS-Project-Portfolio-GEO441/blob/6c5c2c26b7aaa52c05ccd8a41e1fa31d3a9a9d63/Week_12_Assignment_Layne_Miller.ipynb)
 
 ## Mapping Using Environmental Data
-
-- [Projecting Geographic Data in Minnesota](Week_3_Projecting_Geographic_Data_in_Minnesota.ipynb)
 
 - [Mapping Digital Elevation and Hydrology Data](Week_8_Mapping_Digital_Elevation_and_Hydrology_Data.ipynb)
