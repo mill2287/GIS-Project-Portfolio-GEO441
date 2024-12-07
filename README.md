@@ -16,6 +16,6 @@ Layne Miller
 
 ## Spatial Analysis
 
-- [Spatial Analysis Practice] (https://github.com/mill2287/GIS-Project-Portfolio-GEO441/blob/main/Week_10_Assignment_Layne_Miller.ipynb)
+- [Spatial Analysis Practice](https://github.com/mill2287/GIS-Project-Portfolio-GEO441/blob/main/Week_10_Assignment_Layne_Miller.ipynb)
 
-- [
+- [Spatial Analysis of Oxford, OH Using Terrain Data](Week_9_Spatial_Analysis_of_Oxford,_OH_Using_Raster_Data.ipynb)
