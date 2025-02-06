@@ -25,5 +25,5 @@ Created by Layne Miller
 ## Mapping Using Environmental Data
 
 - [Mapping Digital Elevation and Hydrology Data](Week_8_Mapping_Digital_Elevation_and_Hydrology_Data.ipynb)
-- [Ohio Housing Project]
-(https://github.com/F-Dalton34/Ohio_Home_Ownership/tree/main)
+- [Ohio Housing Project/2010-2019](https://storymaps.arcgis.com/stories/09f2db7b25db4c22adb9658aea1d3e67)
+
